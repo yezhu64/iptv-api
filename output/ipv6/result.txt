@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-31 18:23:47,https://jzb.wwkejishe.top/?id=578$订阅源
+2025-11-01 18:21:05,https://jzb.wwkejishe.top/?id=578$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://jzb.wwkejishe.top/?id=578$订阅源
@@ -36,8 +36,8 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
 贵州卫视,https://jzb.wwkejishe.top/?id=619$订阅源
 海南卫视,https://jzb.wwkejishe.top/?id=600$订阅源
-河北卫视,https://jzb.wwkejishe.top/?id=615$订阅源
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
+河北卫视,https://jzb.wwkejishe.top/?id=615$订阅源
 河南卫视,https://jzb.wwkejishe.top/?id=616$订阅源
 吉林卫视,https://jzb.wwkejishe.top/?id=601$订阅源
 青海卫视,https://jzb.wwkejishe.top/?id=605$订阅源
